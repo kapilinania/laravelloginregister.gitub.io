@@ -30,6 +30,9 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## WebApp Information
+Here we ca register user 
+![image](https://github.com/user-attachments/assets/1c4dd9ad-1932-4b61-a2f8-b079cb28225a)
+Here we can Login 
 ![image](https://github.com/user-attachments/assets/e89fd6c5-93f4-4323-b36c-e7421a31d81a)
 ![image](https://github.com/user-attachments/assets/357758d9-434a-4193-86bb-403c015419e4)
 With all functionlity 
